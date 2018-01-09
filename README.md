@@ -18,6 +18,7 @@ FIFO3: Suppose if we configure this to be used for write purpose at server end a
 
 FIFO4: we configure this to be used for read purpose at server end and for write purpose from Processing client end.
 so,the process goes like this: 
+                                
                                 Requesting Client --->sends the raw data---->  Server
                                 [rc1,rc2,rc3,rc4]            [FIFO1]
                                          
