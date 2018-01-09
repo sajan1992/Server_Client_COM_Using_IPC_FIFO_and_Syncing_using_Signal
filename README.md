@@ -1,6 +1,8 @@
 # Server_Client_COM_Using_IPC_FIFO_and_Syncing_using_Signal
 This project demonstrate the Inter-process Communication between server and client using one of the IPC technique FIFO .
-#Project : IPC_SERVER_CLIENT
+# Project : IPC_SERVER_CLIENT
+
+#Author : Sajan Kumar Jha
 
 Description : In this project,the inter-process communication between server and Requesting client is demonstrate. Here multiple request is made by multiple Requesting client and the server gets the process done by other muliple processing client.
 
